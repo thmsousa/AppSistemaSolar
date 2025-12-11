@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_marginTop="30dp"
+    android:padding="15dp"
+    android:layout_marginBottom="30dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageViewPlanetas"
+        android:layout_marginEnd="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nome_do_planeta"
+        android:layout_marginLeft="30dp"
+        android:id="@+id/textViewPlanetas"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+</LinearLayout>
