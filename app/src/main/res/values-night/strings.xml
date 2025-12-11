@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calcular">Calcular</string>
+    <string name="menu">Menu</string>
+    <string name="sol">Sol</string>
+    <string name="lua">Lua</string>
+</resources>

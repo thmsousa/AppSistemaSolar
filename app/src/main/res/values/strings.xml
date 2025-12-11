@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppSistemaSolar</string>
+    <string name="calcular">Calcular</string>
+    <string name="menu">Menu</string>
+    <string name="sol">Sol</string>
+    <string name="lua">Lua</string>
+    <string name="nome_do_planeta">Nome do Planeta</string>
+
+    <string-array name="nomes_planetas">
+        <item>Mercúrio</item>
+        <item>Vênus</item>
+        <item>Terra</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Netuno</item>
+    </string-array>
+</resources>
